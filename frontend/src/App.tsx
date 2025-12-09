@@ -97,7 +97,7 @@ function App() {
               iconZoom={150}
               title="Budda AI"
               linkText="figma.com/BuddaAI"
-              description="An AI Design Partner for Figma. Lets you create and modify your designs agentically, pulling context from your other designs and using your exact style."
+              description="An AI Design Partner for Figma. Lets you create and modify your designs agentically, pulling context from your other designs w/ your style, using figma's native tools. Type to Design in less than minutes."
             />
             <ProjectCard
               href="https://sumanyai.com"
@@ -106,7 +106,7 @@ function App() {
               iconZoom={115}
               title="Sumany AI"
               linkText="sumanyai.com"
-              description="Built in 2022, A serverless SAAS platform that summarizes long documents and text using open source transformer models that I quantized for performance. One of the first projects I launched & got paying customers for."
+              description="A serverless platform that summarizes long documents and text using open source transformer models that I quantized for performance. One of the first projects I launched & got paying customers for."
             />
           </div>
         </div>
