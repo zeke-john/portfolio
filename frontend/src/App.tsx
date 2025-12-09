@@ -106,7 +106,7 @@ function App() {
               iconZoom={115}
               title="Sumany AI"
               linkText="sumanyai.com"
-              description="A serverless platform that summarizes long documents and text using open source transformer models that I quantized for performance. One of the first projects I launched & got paying customers for."
+              description="A serverless SAAS that summarizes long documents and text using open source transformer models that I quantized for performance. One of the first projects I launched & got paying customers for."
             />
           </div>
         </div>
