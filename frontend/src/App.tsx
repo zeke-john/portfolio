@@ -97,7 +97,7 @@ function App() {
               iconZoom={150}
               title="Budda AI"
               linkText="figma.com/BuddaAI"
-              description="An AI Design Partner for Figma. Lets you create and modify your designs agentically, pulling context from your other designs w/ your style, using figma's native tools. Type to Design in less than minutes."
+              description="An AI Design Partner for Figma. Lets you create and modify your designs agentically, pulling context from your project to match your style, using figma's native tools. Type to Design in less than minutes."
             />
             <ProjectCard
               href="https://sumanyai.com"
