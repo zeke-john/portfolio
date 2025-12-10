@@ -35,7 +35,7 @@ function App() {
   return (
     <main className="min-h-screen bg-background flex flex-col">
       <div className="flex-1 flex items-center justify-center p-6 md:p-12">
-        <div className="w-full max-w-6xl grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-40">
+        <div className="w-full max-w-6xl grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-32">
           <div className="flex flex-col justify-center space-y-6">
             <HeaderTiltCard />
 
@@ -45,8 +45,8 @@ function App() {
               </h1>
               <div className="space-y-2.5">
                 <p className="text-lg text-muted-foreground leading-relaxed text-left">
-                  i'm 17 and a full stack software engineer, i love building and
-                  creating new things.
+                  i'm 17 and i'm a full stack software engineer, i love building
+                  and creating new things.
                 </p>
                 <div className="flex flex-col items-left gap-3 text-md text-muted-foreground">
                   <span className="flex items-center gap-2.5">
@@ -97,7 +97,7 @@ function App() {
               iconZoom={150}
               title="Budda AI"
               linkText="figma.com/BuddaAI"
-              description="An AI Design Partner for Figma. Lets you create and modify your designs agentically, pulling context from your project to match your style, using figma's native tools. Type to Design in less than minutes."
+              description="An AI Design Partner for Figma. Lets you create and modify your designs agentically, pulling context from your project to match your style, using figma's native tools."
             />
             <ProjectCard
               href="https://sumanyai.com"
@@ -106,7 +106,7 @@ function App() {
               iconZoom={115}
               title="Sumany AI"
               linkText="sumanyai.com"
-              description="A serverless SAAS that summarizes long documents and text using open source transformer models that I quantized for performance. One of the first projects I launched & got paying customers for."
+              description="A serverless SAAS that summarizes long documents and text using open source transformer models that I quantized for performance. One of the first ever projects I launched ('22) & got paying customers for."
             />
           </div>
         </div>
