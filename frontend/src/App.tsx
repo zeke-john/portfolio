@@ -112,7 +112,7 @@ function App() {
         </div>
       </div>
       <footer className="w-full pb-5 flex justify-center text-muted-foreground leading-relaxed text-sm">
-        © 2025 Zeke John. All rights reserved.
+        © {new Date().getFullYear()} Zeke John. All rights reserved.
       </footer>
     </main>
   );
